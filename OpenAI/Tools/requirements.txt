@@ -1,0 +1,4 @@
+openai>=1.40.0,<2.0.0
+duckduckgo-search>=6.2.6
+# MCP client SDK
+mcp>=0.1.0
